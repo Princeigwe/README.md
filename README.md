@@ -6,7 +6,7 @@ Backend Developer
 
 I am a Python backend developer in default mode, experimenting with Nest.js framework... and I got my eyes on AWS Cloud.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Portfolio.](http://prince-igwe-portfolio.herokuapp.com)
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
 * 🧠  I'm learning Nest.js / AWS Cloud.
