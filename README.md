@@ -1,11 +1,39 @@
-# Hi. I'm  Prince Igwenagha
-![PrinceIgwe's logo](assets/prince_igwe.jpg#gh-dark-mode-only)
+Hi 👋 My name is Prince Igwenagha
+=================================
 
-[![Twitter Badge](assets/icons8-twitter-48.png)](https://twitter.com/IgwePrince0)
-[![LinkedIn Badge](assets/icons8-linkedin-48.png)](https://www.linkedin.com/in/prince-igwenagha-11b702162/)
-[![Medium Badge](assets/icons8-medium-50.png)](https://princeigwe.medium.com/)
+Backend Developer
+-----------------
 
+I am a Python backend developer in default mode, experimenting with Nest.js framework... and I got my eyes on AWS Cloud.
 
-Hello there :vulcan_salute:
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [Portfolio.](http://prince-igwe-portfolio.herokuapp.com)
+* ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
+* 🧠  I'm learning Nest.js / AWS Cloud.
+* 🤝  I'm open to collaborating on whatever web project that needs Python.
+* ⚡  I'm SkyData.
 
-My name is Prince, a self-taught backend web developer. My tech stack include Python(Django), Django Rest Framework, Docker and RDBMS.
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Princeigwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prince-igwenagha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IgwePrince0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Princeigwe"><img src="https://github-readme-stats.vercel.app/api?username=Princeigwe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Princeigwe's GitHub stats" /></a>
+
+<a href="http://www.github.com/Princeigwe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Princeigwe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
