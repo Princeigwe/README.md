@@ -11,7 +11,7 @@ I am a Python backend developer in default mode, experimenting with Nest.js fram
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
 * 🧠  I'm learning Nest.js / AWS Cloud.
 * 🤝  I'm open to collaborating on whatever web project that needs Python.
-* ⚡  I'm SkyData.
+* ⚡  I'm the Ghost of Avalon.
 
 ### Skills
 
