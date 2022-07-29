@@ -9,8 +9,8 @@ I am a Python backend developer in default mode, experimenting with Nest.js fram
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Portfolio.](http://prince-igwe-portfolio.herokuapp.com)
 * ✉️  You can contact me at [igwep297@gmail.com](mailto:igwep297@gmail.com)
-* 🧠  I'm learning Nest.js / AWS Cloud.
-* 🤝  I'm open to collaborating on whatever web project that needs Python.
+* 🧠  I'm forever learning.
+* 🤝  I'm open to collaborating on whatever web project that needs Python(Django) and TypeScript(Nest/Node).
 * ⚡  I'm the Ghost of Avalon.
 
 ### Skills
